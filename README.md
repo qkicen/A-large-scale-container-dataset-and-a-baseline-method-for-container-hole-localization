@@ -12,7 +12,7 @@ This is the first large-scale container dataset for automatic container handling
 ## Citation
 Please cite our papers if you find it useful:
 
-Diao, Yunfeng, Xin Tang, He-Nan Wang, Emma Taylor, Shirui Xiao, Mengtian Xie and Wenming Cheng. “A large-scale container dataset and a baseline method for container hole localization.” J. Real Time Image Process. 19 (2022): 577-589.
+Yunfeng Diao, Xin Tang, He Wang, Emma Taylor, Shirui Xiao, Mengtian Xie and Wenming Cheng. “A large-scale container dataset and a baseline method for container hole localization.” J. Real Time Image Process. 19 (2022): 577-589.
 
 @article{Diao2022ALC,
   title={A large-scale container dataset and a baseline method for container hole localization},
